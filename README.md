@@ -1,2 +1,2 @@
 # nodetask
-this is a repo for nodejs task
+this is a repo for startng nodejs task
